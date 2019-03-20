@@ -52,7 +52,7 @@ for number in outer_numbers:
          this is iteration THREE of the INNER loop
     
     
-    
+
 
 ## How Nested Loops Work
 
@@ -94,9 +94,9 @@ while outer < 3:
         inner iteration: 3
     
     
-    
 
-# Using Nested Loops
+
+## Using Nested Loops
 
 Seeing how to use nested loops is great and all, but when do we really use them? Well, as we touched on earlier, nested data structures don't simply provide a convenient way to conceptualize nested loops, they provide a clear use case for them too.
 
@@ -133,7 +133,7 @@ for programmer in programmers:
     C++
     PHP
     Swift
-    
+
 
 It's possible to get this done without a nested loop, but it would require much more code and would not be nearly as efficient or semantic as the above solution. So, in cases where we're dealing with nested data structures, nesting loops becomes very useful.
 
