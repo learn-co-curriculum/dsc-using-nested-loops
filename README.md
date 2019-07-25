@@ -19,7 +19,7 @@ You will be able to:
 
 ## Writing A Nested Loop
 
-Working with a nested data structure is a little confusing at first, but after doing a few times it becomes much less intimidating. The same is true for writing nested loops. They are something that will be somewhat commonplace in our programming future and are important to be comfortable with. 
+Working with a nested data structure is a little confusing at first, but after doing it a few times it becomes much less intimidating. The same is true for writing nested loops. They are something that will be somewhat commonplace in our programming future and are important to be comfortable with. 
 
 Basically what happens with a nested loop is the inner loop runs in its entirety **every** iteration of the outer loop. Let's take a look at an example before diving too much deeper.
 
