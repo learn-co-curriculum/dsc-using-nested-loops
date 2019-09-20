@@ -2,7 +2,7 @@
 # Using Nested Loops
 
 ## Introduction
-In this lab, we will be looking at how to perform nested iteration (or looping). What does this mean exactly? Well, we know that a nested data structure is having one form of data nested inside another. For example, a nested list would be a list that contains another list, or a dictionary that has a key that points to a list.
+In this lesson, we will be looking at how to perform nested iteration (or looping). What does this mean exactly? Well, we know that a nested data structure is having one form of data nested inside another. For example, a nested list would be a list that contains another list, or a dictionary that has a key that points to a list.
 
 ```python
 # nested lists
@@ -14,14 +14,14 @@ So, with that example, we can infer that a nested loop would be a loop inside an
 
 ## Objectives
 You will be able to:
-* Combine different types of loops
-* Understand, explain and use nested loops to iterate through nested data structures
+- Combine different types of loops
+- Understand, explain and use nested loops to iterate through nested data structures
 
 ## Writing A Nested Loop
 
-Working with a nested data structure is a little confusing at first, but after doing it a few times it becomes much less intimidating. The same is true for writing nested loops. They are something that will be somewhat commonplace in our programming future and are important to be comfortable with. 
+Working with a nested data structure is a little confusing at first, but after doing it a few times it becomes much less intimidating. The same is true for writing nested loops. They will be somewhat commonplace in our programming future and are important to be comfortable with. 
 
-Basically what happens with a nested loop is the inner loop runs in its entirety **every** iteration of the outer loop. Let's take a look at an example before diving too much deeper.
+Basically what happens with a nested loop is the inner loop runs in its entirety **every** iteration of the outer loop. Let's take a look at an example before diving deeper.
 
 
 ```python
@@ -60,7 +60,7 @@ Alright, so, what we see happening here is that the **inner** loop runs through 
 
 So, the operation of the outer loop is to print a string and execute a for loop on the `inner_words` collection. The outer block will do this three times. **BUT** the nested loop has to finish before the next iteration of the outer loop. The nested loop's job is to print its string three times, so that happens for each iteration of the outer loop.
 
-We can nest any kind of loop too.
+We can nest any and all kinds of loops.
 
 
 ```python
