@@ -14,8 +14,8 @@ So, with that example, we can infer that a nested loop would be a loop inside an
 
 ## Objectives
 You will be able to:
-* Combine different types of loops
-* Understand, explain and use nested loops to iterate through nested data structures
+- Combine different types of loops
+- Understand, explain and use nested loops to iterate through nested data structures
 
 ## Writing A Nested Loop
 
