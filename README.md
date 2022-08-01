@@ -1,4 +1,3 @@
-
 # Using Nested Loops
 
 ## Introduction
@@ -13,7 +12,9 @@ dict_nested_list = { 'name': "example", 'colors': ["blue", "green", "yellow", "r
 So, with that example, we can infer that a nested loop would be a loop inside another loop. Sounds exciting, right? Let's take a look at some nested loops.
 
 ## Objectives
+
 You will be able to:
+
 * Use a nested loop when it is appropriate
 
 ## Writing A Nested Loop
